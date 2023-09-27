@@ -1,9 +1,9 @@
 # SetupCypress for me
-The purpose of this script is to:
+While supporting both Windows and MacOS, the purpose of this script is to:
 - Install Cypress,
 - Set up a sample spec test in place,
-- Add the command to the `package.json` to run the test(s)
-- Create `cypress.json` config file
+- Create a `cypress.json` config file, and
+- Add a command to the `package.json` to run the test(s)
 
 ## How it works?
 1. Copy the `setupCypress.js` script to the location where you like to install Cypress
