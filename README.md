@@ -1,4 +1,4 @@
-# SetupCypress for me
+# Set up Cypress for me!
 While supporting both Windows and MacOS, the purpose of this script is to:
 - Install Cypress,
 - Set up a sample spec test in place,
